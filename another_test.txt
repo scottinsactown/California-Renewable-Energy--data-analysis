@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Super secret message Changed
+=======
+Super secret message 
+another change to same file
+>>>>>>> e51beaf580a9931f2cc0540300b3254d4f22d257
