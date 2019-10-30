@@ -1,1 +1,2 @@
 Super secret message 
+another change to same file
