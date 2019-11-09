@@ -12,6 +12,8 @@ Description of Files:
     - csv file with CAISO grid demand data by month for years 2016 & 2017
 - CISO demand data 9.1.17.....:
     - csv fle with CAISO peak day demand data
+- ElectricityByCounty:
+    - csv file with California power demand data per county for 2011-2018
 - Main Anlysis Workbook.pynb:
     - Jupyter notebook with all data reading, manipulating, and cleaning 
     - Produces all charts in "Charts" folder, as well as more that aren't saved
