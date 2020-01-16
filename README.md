@@ -1,5 +1,6 @@
-# Here Comes The Sun
+![Title](https://github.com/scottinsactown/California-Renewable-Energy--data-analysis/blob/master/slide_cover.JPG)
 Data analysis of renewable energy production in California.
+Project Team: Scott Clark and Graham Penrose
 
 Description of Files:
 - Analysis Write Ups(Folder):  Word documents & PowerPoint presentation
@@ -21,3 +22,12 @@ Description of Files:
     - Jupyter notebook with all data reading, manipulating, and cleaning 
     - Produces all charts in "Charts" folder, as well as more that aren't saved
 
+### Analysis Summary
+    
+![Hourly](https://github.com/scottinsactown/California-Renewable-Energy--data-analysis/blob/master/hourly.JPG)
+
+![Monthly](https://github.com/scottinsactown/California-Renewable-Energy--data-analysis/blob/master/month.JPG)
+
+![Annually](https://github.com/scottinsactown/California-Renewable-Energy--data-analysis/blob/master/annual.JPG)
+
+![Demand](https://github.com/scottinsactown/California-Renewable-Energy--data-analysis/blob/master/demand.JPG)
